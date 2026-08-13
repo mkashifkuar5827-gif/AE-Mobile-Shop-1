@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kashif Mobile</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_sales">Sales</string>
+    <string name="nav_repairs">Repairs</string>
+    <string name="nav_stock">Stock</string>
+    <string name="nav_customers">Customers</string>
+    <string name="nav_accounts">Accounts</string>
+    <string name="nav_profile">Profile</string>
+    <string name="language_switcher_title">Select Language / زبان کا انتخاب</string>
+    <string name="lang_english">English Only</string>
+    <string name="lang_urdu">اردو Only</string>
+    <string name="lang_arabic">العربية Only</string>
+    <string name="lang_bilingual">Bilingual (English + اردو)</string>
+    <string name="settings_title">App Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="shop_details">Shop Details</string>
+    <string name="save_profile">Save Shop Details</string>
+    <string name="backup_restore">Backup &amp; Restore</string>
+</resources>

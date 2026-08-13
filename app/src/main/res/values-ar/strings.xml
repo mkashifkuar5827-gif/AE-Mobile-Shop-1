@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">كاشف للموبايل</string>
+    <string name="nav_dashboard">لوحة التحكم</string>
+    <string name="nav_sales">المبيعات</string>
+    <string name="nav_repairs">الصيانة</string>
+    <string name="nav_stock">المخزون</string>
+    <string name="nav_customers">العملاء</string>
+    <string name="nav_accounts">الحسابات</string>
+    <string name="nav_profile">الملف الشخصي</string>
+    <string name="language_switcher_title">اختر اللغة / Select Language</string>
+    <string name="lang_english">الإنجليزية</string>
+    <string name="lang_urdu">الأردية</string>
+    <string name="lang_arabic">العربية</string>
+    <string name="lang_bilingual">ثنائي اللغة</string>
+    <string name="settings_title">إعدادات التطبيق</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="shop_details">تفاصيل المحل</string>
+    <string name="save_profile">حفظ تفاصيل المحل</string>
+    <string name="backup_restore">النسخ الاحتياطي والاستعادة</string>
+</resources>

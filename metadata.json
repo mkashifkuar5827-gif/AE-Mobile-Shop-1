@@ -1,0 +1,6 @@
+{
+  "name": "Kashif Mobile & Repair",
+  "description": "Offline mobile shop management system for sales, repairs, stock, customers, invoices, daily accounts, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

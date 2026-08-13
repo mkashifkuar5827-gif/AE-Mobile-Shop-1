@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">کاشف موبائل</string>
+    <string name="nav_dashboard">ڈیش بورڈ</string>
+    <string name="nav_sales">سیل</string>
+    <string name="nav_repairs">مرمت</string>
+    <string name="nav_stock">اسٹاک</string>
+    <string name="nav_customers">کسٹمرز</string>
+    <string name="nav_accounts">اکاؤنٹس</string>
+    <string name="nav_profile">پروفائل</string>
+    <string name="language_switcher_title">زبان کا انتخاب</string>
+    <string name="lang_english">انگریزی</string>
+    <string name="lang_urdu">اردو</string>
+    <string name="lang_arabic">عربی</string>
+    <string name="lang_bilingual">انگریزی + اردو</string>
+    <string name="settings_title">ایپ ترتیبات</string>
+    <string name="dark_mode">ڈارک موڈ</string>
+    <string name="shop_details">دکان کی تفصیلات</string>
+    <string name="save_profile">تفصیلات محفوظ کریں</string>
+    <string name="backup_restore">ڈیٹا بیک اپ اور بحالی</string>
+</resources>
